@@ -31,8 +31,7 @@ scikit-learn
 2. Open `digit_recognizer.ipynb` in Jupyter or Colab
 3. Run cells step by step
 
-## 📷 Output Examples
-![Sample Predictions](output/sample_predictions.png)
+
 
 ## 🎨 Unique Features
 - Data augmentation (rotation, zoom)
