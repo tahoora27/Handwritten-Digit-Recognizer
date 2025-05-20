@@ -37,5 +37,5 @@ scikit-learn
 - Data augmentation (rotation, zoom)
 - Confusion matrix
 - Save/load model
-- Optional: User drawing pad (for future)
+
 
